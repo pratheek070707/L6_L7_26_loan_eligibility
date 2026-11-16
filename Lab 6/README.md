@@ -1,4 +1,4 @@
-# L6_L7_26_loan_eligibility — Loan Eligibility
+# L6_26_loan_eligibility — Loan Eligibility
 
 Lab 6: Code and Branch Coverage
 
